@@ -1,6129 +1,6003 @@
 {
 	"Datapoints": [{
 		"Node ID": "subsystem1.device1.dp1",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp2",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp3",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp4",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp5",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp6",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp7",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp8",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp9",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp10",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp11",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp12",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp13",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp14",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp15",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp16",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp17",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp18",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp19",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp20",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp21",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp22",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp23",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp24",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp25",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp26",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp27",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp28",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp29",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp30",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp31",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp32",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp33",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp34",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp35",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp36",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp37",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp38",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp39",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp40",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp41",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp42",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp43",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp44",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp45",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp46",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp47",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp48",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp49",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp50",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp51",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp52",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp53",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp54",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp55",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp56",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp57",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp58",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp59",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp60",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp61",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp62",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp63",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp64",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp65",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp66",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp67",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp68",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp69",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp70",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp71",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp72",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp73",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp74",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp75",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp76",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp77",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp78",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp79",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp80",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp81",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp82",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp83",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp84",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp85",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp86",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp87",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp88",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp89",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp90",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp91",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp92",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp93",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp94",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp95",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp96",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp97",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp98",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp99",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp100",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp101",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp102",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp103",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp104",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp105",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp106",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp107",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp108",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp109",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp110",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp111",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp112",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp113",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp114",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp115",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp116",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp117",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp118",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp119",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp120",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp121",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp122",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp123",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp124",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp125",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp126",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp127",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp128",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp129",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp130",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp131",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp132",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp133",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp134",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp135",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp136",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp137",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp138",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp139",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp140",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp141",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp142",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp143",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp144",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp145",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp146",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp147",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp148",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp149",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp150",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp151",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp152",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp153",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp154",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp155",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp156",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp157",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp158",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp159",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp160",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp161",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp162",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp163",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp164",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp165",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp166",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp167",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp168",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp169",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp170",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp171",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp172",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp173",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp174",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp175",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp176",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp177",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp178",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp179",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp180",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp181",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp182",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp183",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp184",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp185",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp186",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp187",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp188",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp189",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp190",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp191",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp192",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp193",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp194",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp195",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp196",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp197",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp198",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp199",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp200",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp201",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp202",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp203",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp204",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp205",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp206",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp207",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp208",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp209",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp210",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp211",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp212",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp213",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp214",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp215",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp216",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp217",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp218",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp219",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp220",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp221",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp222",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp223",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp224",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp225",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp226",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp227",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp228",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp229",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp230",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp231",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp232",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp233",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp234",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp235",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp236",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp237",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp238",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp239",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp240",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp241",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp242",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp243",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp244",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp245",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp246",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp247",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp248",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp249",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device1.dp250",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp1",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp2",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp3",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp4",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp5",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp6",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp7",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp8",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp9",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp10",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp11",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp12",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp13",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp14",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp15",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp16",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp17",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp18",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp19",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp20",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp21",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp22",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp23",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp24",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp25",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp26",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp27",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp28",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp29",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp30",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp31",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp32",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp33",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp34",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp35",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp36",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp37",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp38",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp39",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp40",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp41",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp42",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp43",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp44",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp45",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp46",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp47",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp48",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp49",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp50",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp51",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp52",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp53",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp54",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp55",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp56",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp57",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp58",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp59",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp60",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp61",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp62",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp63",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp64",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp65",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp66",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp67",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp68",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp69",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp70",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp71",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp72",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp73",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp74",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp75",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp76",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp77",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp78",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp79",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp80",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp81",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp82",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp83",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp84",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp85",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp86",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp87",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp88",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp89",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp90",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp91",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp92",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp93",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp94",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp95",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp96",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp97",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp98",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp99",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp100",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp101",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp102",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp103",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp104",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp105",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp106",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp107",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp108",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp109",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp110",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp111",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp112",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp113",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp114",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp115",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp116",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp117",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp118",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp119",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp120",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp121",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp122",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp123",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp124",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp125",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp126",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp127",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp128",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp129",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp130",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp131",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp132",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp133",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp134",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp135",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp136",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp137",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp138",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp139",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp140",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp141",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp142",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp143",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp144",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp145",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp146",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp147",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp148",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp149",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp150",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp151",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp152",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp153",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp154",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp155",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp156",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp157",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp158",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp159",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp160",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp161",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp162",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp163",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp164",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp165",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp166",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp167",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp168",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp169",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp170",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp171",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp172",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp173",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp174",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp175",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp176",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp177",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp178",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp179",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp180",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp181",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp182",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp183",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp184",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp185",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp186",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp187",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp188",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp189",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp190",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp191",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp192",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp193",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp194",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp195",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp196",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp197",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp198",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp199",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp200",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp201",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp202",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp203",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp204",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp205",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp206",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp207",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp208",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp209",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp210",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp211",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp212",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp213",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp214",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp215",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp216",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp217",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp218",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp219",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp220",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp221",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp222",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp223",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp224",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp225",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp226",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp227",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp228",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp229",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp230",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp231",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp232",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp233",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp234",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp235",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp236",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp237",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp238",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp239",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp240",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp241",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp242",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp243",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp244",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp245",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp246",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp247",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp248",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp249",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem1.device2.dp250",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp1",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp2",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp3",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp4",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp5",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp6",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp7",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp8",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp9",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp10",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp11",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp12",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp13",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp14",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp15",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp16",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp17",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp18",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp19",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp20",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp21",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp22",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp23",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp24",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp25",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp26",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp27",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp28",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp29",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp30",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp31",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp32",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp33",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp34",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp35",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp36",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp37",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp38",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp39",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp40",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp41",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp42",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp43",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp44",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp45",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp46",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp47",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp48",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp49",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp50",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp51",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp52",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp53",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp54",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp55",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp56",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp57",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp58",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp59",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp60",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp61",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp62",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp63",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp64",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp65",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp66",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp67",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp68",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp69",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp70",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp71",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp72",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp73",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp74",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp75",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp76",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp77",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp78",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp79",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp80",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp81",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp82",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp83",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp84",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp85",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp86",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp87",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp88",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp89",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp90",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp91",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp92",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp93",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp94",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp95",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp96",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp97",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp98",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp99",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp100",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp101",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp102",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp103",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp104",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp105",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp106",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp107",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp108",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp109",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp110",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp111",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp112",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp113",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp114",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp115",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp116",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp117",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp118",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp119",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp120",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp121",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp122",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp123",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp124",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp125",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp126",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp127",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp128",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp129",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp130",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp131",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp132",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp133",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp134",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp135",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp136",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp137",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp138",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp139",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp140",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp141",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp142",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp143",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp144",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp145",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp146",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp147",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp148",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp149",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp150",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp151",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp152",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp153",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp154",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp155",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp156",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp157",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp158",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp159",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp160",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp161",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp162",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp163",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp164",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp165",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp166",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp167",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp168",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp169",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp170",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp171",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp172",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp173",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp174",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp175",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp176",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp177",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp178",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp179",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp180",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp181",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp182",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp183",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp184",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp185",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp186",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp187",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp188",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp189",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp190",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp191",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp192",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp193",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp194",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp195",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp196",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp197",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp198",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp199",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp200",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp201",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp202",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp203",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp204",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp205",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp206",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp207",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp208",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp209",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp210",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp211",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp212",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp213",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp214",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp215",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp216",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp217",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp218",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp219",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp220",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp221",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp222",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp223",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp224",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp225",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp226",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp227",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp228",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp229",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp230",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp231",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp232",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp233",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp234",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp235",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp236",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp237",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp238",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp239",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp240",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp241",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp242",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp243",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp244",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp245",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp246",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp247",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp248",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp249",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device1.dp250",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp1",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp2",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp3",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp4",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp5",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp6",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp7",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp8",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp9",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp10",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp11",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp12",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp13",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp14",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp15",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp16",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp17",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp18",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp19",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp20",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp21",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp22",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp23",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp24",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp25",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp26",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp27",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp28",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp29",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp30",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp31",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp32",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp33",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp34",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp35",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp36",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp37",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp38",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp39",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp40",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp41",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp42",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp43",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp44",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp45",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp46",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp47",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp48",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp49",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp50",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp51",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp52",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp53",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp54",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp55",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp56",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp57",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp58",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp59",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp60",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp61",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp62",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp63",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp64",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp65",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp66",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp67",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp68",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp69",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp70",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp71",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp72",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp73",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp74",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp75",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp76",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp77",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp78",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp79",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp80",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp81",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp82",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp83",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp84",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp85",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp86",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp87",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp88",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp89",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp90",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp91",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp92",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp93",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp94",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp95",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp96",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp97",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp98",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp99",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp100",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp101",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp102",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp103",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp104",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp105",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp106",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp107",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp108",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp109",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp110",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp111",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp112",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp113",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp114",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp115",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp116",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp117",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp118",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp119",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp120",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp121",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp122",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp123",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp124",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp125",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp126",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp127",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp128",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp129",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp130",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp131",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp132",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp133",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp134",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp135",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp136",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp137",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp138",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp139",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp140",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp141",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp142",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp143",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp144",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp145",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp146",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp147",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp148",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp149",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp150",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp151",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp152",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp153",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp154",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp155",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp156",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp157",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp158",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp159",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp160",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp161",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp162",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp163",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp164",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp165",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp166",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp167",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp168",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp169",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp170",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp171",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp172",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp173",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp174",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp175",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp176",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp177",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp178",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp179",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp180",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp181",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp182",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp183",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp184",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp185",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp186",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp187",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp188",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp189",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp190",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp191",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp192",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp193",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp194",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp195",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp196",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp197",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp198",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp199",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp200",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp201",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp202",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp203",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp204",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp205",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp206",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp207",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp208",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp209",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp210",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp211",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp212",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp213",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp214",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp215",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp216",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp217",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp218",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp219",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp220",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp221",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp222",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp223",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp224",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp225",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp226",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp227",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp228",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp229",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp230",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "ByteString",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp231",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp232",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp233",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp234",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp235",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp236",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp237",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp238",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Int64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp239",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of UInt64",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp240",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Float",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp241",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of Double",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp242",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of String",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp243",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Array of DateTime",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp244",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Boolean",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp245",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "SByte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp246",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Byte",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp247",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp248",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt16",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp249",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "Int32",
 		"DP Status": 0
 	}, {
 		"Node ID": "subsystem2.device2.dp250",
-		"Server": "10.68.249.8:49580",
+		"Server": "127.0.0.1:49580",
 		"Interface": "OPCUA",
 		"Data Type": "UInt32",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg01",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg02",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg03",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg04",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg05",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg06",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg07",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg08",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg08",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg09",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg10",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg11",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg12",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg13",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg14",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg15",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg16",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg17",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg18",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg19",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
-		"DP Status": 0
-	}, {
-		"Node ID": "storage.numeric.reg20",
-		"Server": "10.68.249.8\\Graybox.Simulator.1",
-		"Data Type": "Double",
-		"Interface": "OPC",
 		"DP Status": 0
 	}]
 }
