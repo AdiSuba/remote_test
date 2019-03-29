@@ -1,0 +1,5 @@
+Datapoint name;Value;Timestamp;Selected;DP Status;
+subsystem1.device1.dp10;0.0;;;0;
+subsystem1.device1.dp101;0;;;0;
+subsystem1.device1.dp102;0;;;0;
+subsystem1.device1.dp104;0;;;0;
